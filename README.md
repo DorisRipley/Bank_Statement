@@ -1,1 +1,1 @@
-# Bank Statement Insights: A Data Science Approach
+# Personal Finances Summary Dashboard
